@@ -1,6 +1,5 @@
 # Django
 Django Projects
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A collection of Django projects showcasing my skills and experience in building scalable web applications.
 
 ## Projects
@@ -13,4 +12,6 @@ A collection of Django projects showcasing my skills and experience in building 
 
 ## About
 This repository contains a collection of Django projects that demonstrate my expertise in building robust and scalable web applications.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
